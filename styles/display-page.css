@@ -1,0 +1,44 @@
+.Box{
+	border: 1px solid black;
+}
+.ppal {
+	background-color: green;
+	width: 800px;
+	height: auto;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 0px;
+}
+
+.topBox{
+	width: 50%;
+	height: 200px;
+	display: inline-block;
+}
+
+.topBox#left{
+	background-color: green;
+}
+
+.topBox#right{
+	background-color: blue;
+}
+
+.botBox{
+	width: 33.33%;
+	display: inline-block;
+	height: 300px;
+	background-color: red;
+}
+
+.botBox#left{
+	background-color: grey;
+}
+
+.botBox#middle{
+	background-color: black;
+}
+
+.botBox#right{
+	background-color: orange;
+}
